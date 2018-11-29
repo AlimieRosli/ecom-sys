@@ -1,30 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700%7CMaterial+Icons' rel="stylesheet">
-    <script src="https://cdn.bootcss.com/echarts/4.0.4/echarts-en.min.js"></script>
-    <title>Vue Material Admin Template</title>
-    <link rel="shortcut icon" href="/static/m.png" type="image/x-icon">
-    <meta name="description" content="Vue Material Admin Template is a
-    Google Material Design  inspired admin dashboard template built with Vue  andVuetify.">
-    <meta name="keywords" content="admin, dashboard, webapp, template, responsive, material, bootstrap, crm, uikit, framework, backend, app, widgets, premium, file manamger, mail, vue, vuetify, echarts">
-  </head>
-  <body>
-    <div id="app"></div>
-    <!-- built files will be auto injected -->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3881136-11"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700%7CMaterial+Icons" rel=stylesheet><script src=https://cdn.bootcss.com/echarts/4.0.4/echarts-en.min.js></script><title>index-new</title><link rel="shortcut icon" href=/static/m.png type=image/x-icon><meta name=description content="Vue Material Admin Template is a
+    Google Material Design  inspired admin dashboard template built with Vue  andVuetify."><meta name=keywords content="admin, dashboard, webapp, template, responsive, material, bootstrap, crm, uikit, framework, backend, app, widgets, premium, file manamger, mail, vue, vuetify, echarts"><link href=./static/css/app.25f3444a3aca607b4fb8f2bc8d890cd6.css rel=stylesheet></head><body><div id=app></div><script async src="https://www.googletagmanager.com/gtag/js?id=UA-3881136-11"></script><script>window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'UA-3881136-11');
-    </script>
-    <!-- <script src="{{''}}">
-
-    </script> -->
-  </body>
-
-</html>
+      gtag('config', 'UA-3881136-11');</script><script type=text/javascript src=./static/js/manifest.3ad1d5771e9b13dbdad2.js></script><script type=text/javascript src=./static/js/vendor.adba3df4d738c2bd3d1a.js></script><script type=text/javascript src=./static/js/app.58a2034e32d6af33d0bc.js></script></body></html>
